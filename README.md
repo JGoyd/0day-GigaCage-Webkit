@@ -26,7 +26,7 @@ Accelerate vendor triage and support mitigations. Intended for use by security e
 
 ### Disclosure
 
-See`TECHNICAL_DISCLOSURE.md` for PoC details, crash evidence, and remediation recommendations.
+See`VULNERABILITY_REPORT.md` for PoC details, crash evidence, and remediation recommendations.
 
 ---
 
