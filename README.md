@@ -1,6 +1,6 @@
-# WebKit Gigacage iOS 26.2 Zero-Day Impact Analysis
+# WebKit Gigacage iOS 26.2  
 
-**Advisory ID:** [CVE Pending]
+### **Advisory ID:** [CVE Pending]
 ---
 **Status:** Active Zero-Day Vulnerability
 
