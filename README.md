@@ -11,7 +11,7 @@ This repository documents an active zero-day integer overflow vulnerability in W
 
 ## Contents
 
-- **TECHNICAL_DISCLOSURE.md:** Full technical advisory, including proof-of-concept code examples and analysis
+- **VULNERABILITY_REPORT.md:** Full technical advisory, including proof-of-concept code examples and analysis
 - **crash_logs/**: Crash logs from affected iOS 26.2 devices demonstrating reproducibility
 
 ## Impact
