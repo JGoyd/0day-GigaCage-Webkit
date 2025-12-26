@@ -2,7 +2,8 @@
 
 ### **Advisory ID:** [CVE Pending]
 ---
-**Status:** Active Zero-Day Vulnerability
+**Webkit Bug:** #304711 
+**Apple Tracking ID:** OE01004904221848
 
 ## Overview
 
